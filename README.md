@@ -30,6 +30,13 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - Technology category has the highest profitability
 - Some products show high sales but low profit as furniture
 
+## Skills Demonstrated
+- Data Cleaning (Power Query)
+- Data Modeling
+- Data Visualization
+- Business Analysis
+- KPI Design
+
 ## Tools Used
 - Power BI (data visualization)
 - Power Query (data transformation)
