@@ -35,4 +35,4 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - Power Query (data transformation)
 
 ## Dashboard Preview
-![dashboard](Images/dashboard.png)
+![dashboard](Images/Dashboard.png)
